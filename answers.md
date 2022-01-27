@@ -14,8 +14,8 @@ Answer 8: commit 916ccda21b8b27e4d64f260f8dd569fe006c4708 (HEAD -> master)
 Author: Mila Gmerek <mg527619@ohio.edu>
 Date:   Thu Jan 27 15:47:57 2022 -0500
 Answer 9: After uploading my files to GitHub and issuing the command "git status" in the terminal, no files are in the "Untracked files" category. It also says that my files are up to date with 'origin/main'.
-Answer 10: Yes
-Answer 11: When I issue the command "git push" again, it says everything is up to date.
-Answer 12: Yes.  
+Answer 10:      Yes
+Answer 11:        When I issue the command "git push" again, it says everything is up to date.
+Answer 12:       Yes.  
 Answer 13:     .  ..  .git  .gitignore  README.md
 
