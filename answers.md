@@ -17,3 +17,5 @@ Answer 9: After uploading my files to GitHub and issuing the command "git status
 Answer 10: Yes
 Answer 11: When I issue the command "git push" again, I have to enter my git hub username and password.
 Answer 12: Yes
+ Answer 13: .  ..  .git  .gitignore  README.md
+
